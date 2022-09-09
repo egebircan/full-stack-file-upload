@@ -1,0 +1,3 @@
+const METADATA_DELIMETER = '∑'
+
+export default METADATA_DELIMETER
